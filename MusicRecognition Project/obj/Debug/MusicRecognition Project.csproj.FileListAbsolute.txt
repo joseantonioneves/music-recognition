@@ -1,0 +1,18 @@
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\MusicRecognition Project.exe.config
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\MusicRecognition Project.exe
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\MusicRecognition Project.pdb
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\DBreeze.dll
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\NAudio.dll
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\DBreeze.xml
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\NAudio.xml
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition Project.csproj.AssemblyReference.cache
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition_Project.Frontend.resources
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition_Project.Properties.Resources.resources
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition_Project.WaveForm.resources
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition Project.csproj.GenerateResource.cache
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition Project.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition Project.csproj.CopyComplete
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition Project.exe
+C:\Users\José Antonio\source\repos\Music-Recognition\MusicRecognition Project\obj\Debug\MusicRecognition Project.pdb
